@@ -24,13 +24,13 @@ The result will be compared, and feedback will be provided on whether you win, l
 <h3>Steps Involved in the Code:</h3>
 Store the user's input:
 
-The user’s choice will be stored as an integer (0 for Rock, 1 for Paper, 2 for Scissors).
+The user’s choice will be stored as an integer (0 for Rock, 1 for Paper, 2 for Scissors).<br>
 Generate a random choice for the computer:
 
-Use the random module to generate a random integer between 0 and 2 for the computer's choice.
+Use the random module to generate a random integer between 0 and 2 for the computer's choice.<br>
 Compare choices to determine the winner:
 
-Compare the user's choice and the computer's choice based on the rules above to decide the result.
+Compare the user's choice and the computer's choice based on the rules above to decide the result.<br>
 Provide feedback:
 
 Display the corresponding ASCII art for Rock, Paper, or Scissors.
